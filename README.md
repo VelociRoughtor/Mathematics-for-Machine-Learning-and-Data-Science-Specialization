@@ -1,6 +1,6 @@
 # 📘 Mathematics for Machine Learning and Data Science Specialization
 
-![Mathematics for Machine Learning](image.jpeg)
+![Mathematics for Machine Learning](Images/image.jpeg)
 
 Welcome to the **Mathematics for Machine Learning and Data Science Specialization** repository!  
 This repo contains notes, code, and resources from the [DeepLearning.AI](https://www.deeplearning.ai/) specialization offered on [Coursera](https://www.coursera.org/specializations/mathematics-machine-learning) — an essential series for anyone diving into the mathematical foundations of machine learning and data science.
